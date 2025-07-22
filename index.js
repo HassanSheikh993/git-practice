@@ -7,7 +7,7 @@ function display(){
 
 function verifyAge(){
     if(age>=18){
-        console.log("Valid")
+        console.log("Valid");
     }
-    console.log("In valid")
+    console.log("In valid");
 }
