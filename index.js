@@ -2,7 +2,7 @@ const age = 21;
 const name = "Hassan Sheikh";
 
 function display(){
-    console.log(name + " " + age)
+    console.log(`MY NAME IS ${name} AND AGE IS ${age}`)
 }
 
 function verifyAge(){
